@@ -22,6 +22,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- See [QA Lead role](./octoacme-roles-and-personas.md#qa-lead--test-lead) for test ownership and sign-off responsibilities
 
 ## Reporting & Metrics
 - Track velocity and burndown
